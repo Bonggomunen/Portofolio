@@ -5,11 +5,6 @@
 </p>
 
 <p align="center">
-
-- My name is Bonggomunen
-
-- I am Not programmer
- 
 </p>
 
 <h3 align="left">Connect with me:</h3>
