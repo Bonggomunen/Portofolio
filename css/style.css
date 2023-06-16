@@ -3,7 +3,7 @@
 :root {
   --dark-one: #333;
   --dark-two: #7a7a7a;
-  --main-color: #784cfb;
+  --main-color: #2472b3;
   --light-one: #fff;
   --light-two: #f9fafb;
   --light-three: #f6f7fb;
@@ -206,7 +206,7 @@ img {
 }
 
 .btn:hover {
-  background-color: #6b44e0;
+  background-image: linear-gradient(to right, #4682b4, #8400ff, #fa00ed);
 }
 
 .btn.small {
@@ -274,7 +274,7 @@ nav .container {
 
 .links a.active:hover {
   color: var(--light-one);
-  background-color: #6b44e0;
+  background-image: linear-gradient(to right, #4682b4, #8400ff, #fa00ed);
 }
 
 .hamburger-menu {
@@ -637,7 +637,7 @@ header .circle {
   left: 0;
   z-index: 2;
   color: var(--light-one);
-  background-color: rgba(120, 76, 251, 0.55);
+  background-color: rgba(38, 35, 48, 0.55);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -1278,7 +1278,7 @@ header .circle {
 }
 
 .input-arrow:hover {
-  background-color: #6b44e0;
+  background-image: linear-gradient(to right, #4682b4, #8400ff, #fa00ed);
 }
 
 .focus {
@@ -1361,7 +1361,7 @@ header .circle {
 }
 
 .back-btn:hover {
-  background-color: #6b44e0;
+  background-image: linear-gradient(to right, #4682b4, #8400ff, #fa00ed);
 }
 
 .back-btn-wrap:before {
