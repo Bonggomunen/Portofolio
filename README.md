@@ -1,7 +1,7 @@
 <h1 align="center">Bonggomunen 
   <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px" alt=""><br></h1>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Bonggomunen/Portofolio/main/img/logo.png" />
+<img src="" />
 </p>
 
 <p align="center">
